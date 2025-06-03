@@ -38,11 +38,15 @@ I am also a **GATE CSE 2026 aspirant**, preparing to deepen my core computer sci
 
 ---
 
-### 📊 Most Used Languages
+## 📊 Languages & Usage
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-Goyal&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Most used languages"/>
-</p>
+| Language   | Usage  |
+|------------|--------|
+| Python     | 70% 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |
+| JavaScript | 60% 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ |
+| Java       | 50% 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ |
+| C          | 40% 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ |
+| SQL        | 30% 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ |
 
 ---
 
