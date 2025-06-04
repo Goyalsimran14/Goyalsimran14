@@ -38,30 +38,17 @@ I am also a **GATE CSE 2026 aspirant**, preparing to deepen my core computer sci
 
 ---
 
-## 📊 Languages & Usage
-
-| Language   | Usage  |
-|------------|--------|
-| Python     | 70% 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |
-| JavaScript | 60% 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ |
-| Java       | 50% 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ |
-| C          | 40% 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ |
-| SQL        | 30% 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ |
-
----
-
-### 📈 GitHub Stats
-
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simran-Goyal&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simran-Goyal&theme=tokyonight" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Goyalsimran14&show_icons=true&theme=tokyonight" alt="Simran's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goyalsimran14&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
+<!-- GitHub Language Stats -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simran-Goyal&theme=tokyo-night&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goyalsimran14&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
 </p>
 
----
 
 ### ✨ Cool Vibes GIF Zone
 
