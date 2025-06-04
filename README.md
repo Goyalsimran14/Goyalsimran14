@@ -1,8 +1,6 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Hi,+I'm+Simran+Goyal!&fontSize=40&fontColor=ffffff" alt="Hi, I'm Simran Goyal" />
 
----
-
 ### 👩‍💻 About Me
 
 Hello! I'm **Simran Goyal**, a Computer Science Engineering student specializing in the **Internet of Things (IoT)**. Technology excites me, and I love discovering how it can be used to solve **real-world problems** creatively and efficiently. I'm passionate about **Python**, **Cloud Computing**, **Web Development**, and **Database Management Systems (DBMS)**.  
